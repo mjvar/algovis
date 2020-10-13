@@ -1,6 +1,6 @@
 # algovis
 
-A p5.js web app that visually demonstrates how Dijkstra's algorithm works. [Click here to try it!](https://mjvar.github.io/mjvar-algovis.io/)
+A p5.js web app that visually demonstrates how Dijkstra's algorithm works. [Live demo link here.](https://mjvar.github.io/mjvar-algovis.io/)
 
 ### Instructions
 
